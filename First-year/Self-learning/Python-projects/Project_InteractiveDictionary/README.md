@@ -1,7 +1,7 @@
-## - Project-title:
-   "Python Interactive Dictionary"
+### - Project Title:
+## "Python Interactive Dictionary"
                   
-### - Project-description:
+### - Project Description:
 
 - I've applied my knowledge of what I have learned after 2 weeks of basics in Python to create my First Python Project : "Python Interactive Dictionary".
 - Applied what I've learned on 2 weeks i.e. conditional statements, looping, importing libraries, lists/dictionaries and more.
