@@ -1,7 +1,7 @@
-## - Project-title:
-   "Drum Kit"
+### - Project Title:
+## "Drum Kit"
                   
-### - Project-description:
+### - Project Description:
 
 - I've applied my knowledge of what I have learned after 4 weeks of basics in JavaScript to a "Cool Drum Kit Project".
 - Applied what I've learned on 4 weeks i.e. DOM manipulation, functions ,conditional statements, looping and more.
