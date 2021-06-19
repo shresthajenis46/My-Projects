@@ -1,5 +1,5 @@
-## - Project-title:
-   "Dice Game"
+### - Project-title:
+## "Dice Game"
                   
 ### - Project-description:
 
