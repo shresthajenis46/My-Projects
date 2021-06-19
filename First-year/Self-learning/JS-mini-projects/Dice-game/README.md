@@ -1,7 +1,7 @@
-### - Project-title:
+### - Project Title:
 ## "Dice Game"
                   
-### - Project-description:
+### - Project Description:
 
 - I've applied my knowledge of what I have learned after 3 weeks of basics in JavaScript to create my First Dice Game Project.
 - Applied what I've learned on 3 weeks i.e. DOM manipulation.
